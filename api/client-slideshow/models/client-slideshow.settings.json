@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "client_slideshows",
+  "info": {
+    "name": "Client Slideshow"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}

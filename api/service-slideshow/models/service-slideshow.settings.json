@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "service_slideshows",
+  "info": {
+    "name": "Service Slideshow"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}
